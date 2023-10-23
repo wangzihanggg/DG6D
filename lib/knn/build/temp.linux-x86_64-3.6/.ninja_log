@@ -1,0 +1,3 @@
+# ninja log v5
+1	614	1697856306687134635	/home/wangzihanggg/codespace/DG6D/lib/knn/build/temp.linux-x86_64-3.6/home/wangzihanggg/codespace/DG6D/lib/knn/src/cuda/knn.o	655950fa830253fb
+1	7462	1697856313566566089	/home/wangzihanggg/codespace/DG6D/lib/knn/build/temp.linux-x86_64-3.6/home/wangzihanggg/codespace/DG6D/lib/knn/src/cpu/knn_cpu.o	5cddbdcc360a057c
